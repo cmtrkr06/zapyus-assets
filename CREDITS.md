@@ -14,3 +14,6 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/aea50bd815cb021b4ba2.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:AppleCarPlay.jpg | CC BY-SA 4.0 | Fotoğraf: ninjajp / Wikimedia Commons , CC BY-SA 4.0 |
 | images/5566e2f4e6b8558f6145.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:2023_Volkswagen_ID.4_running_wireless_CarPlay.jpg | CC0 | Fotoğraf: Sunnyboy122 / Wikimedia Commons , CC0 |
 | images/7494679ca4c739b6cc65.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Carplay_Apple_Music_Interface.jpg | Public domain | Fotoğraf: PascalHD / Wikimedia Commons , Public domain |
+| images/582b52b1c41d1d53baad.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Skoda_Fabia_II_Instrument_Cluster.jpg | CC BY 2.0 | Fotoğraf: Alan from Crawley, United Kingdom / Wikimedia Commons , CC BY 2.0 |
+| images/43f4b22378540c02b7bc.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/cdf7c0da5e3dcbff2217.png | adım kartı | Zapyus | Zapyus | Zapyus |
