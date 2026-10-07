@@ -17,3 +17,6 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/582b52b1c41d1d53baad.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Skoda_Fabia_II_Instrument_Cluster.jpg | CC BY 2.0 | Fotoğraf: Alan from Crawley, United Kingdom / Wikimedia Commons , CC BY 2.0 |
 | images/43f4b22378540c02b7bc.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/cdf7c0da5e3dcbff2217.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/48d154c65381b2cf95a3.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Consoles.jpg | CC BY 2.0 | Fotoğraf: Michel Ngilen / Wikimedia Commons , CC BY 2.0 |
+| images/8e91f40460ae79ca03d8.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Original_Game_Boy.jpg | CC BY 4.0 | Fotoğraf: Sammlung der Medien und Wissenschaft / Wikimedia Commons , CC BY 4.0 |
+| images/185b1da11a65f9233f9b.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Game_Boy_and_Tetris.jpg | CC BY 4.0 | Fotoğraf: Sammlung der Medien und Wissenschaft / Wikimedia Commons , CC BY 4.0 |
