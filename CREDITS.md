@@ -24,3 +24,4 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/a3acdfe977bb8293e336.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/428f19cfb4f7233377b4.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/89d3ddfdc4b6bce998e9.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/d8d73b78fd1d9940a70d.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_Cockpit_(210135663).jpeg | CC BY-SA 3.0 | Fotoğraf: Christoph Wurst / Wikimedia Commons , CC BY-SA 3.0 |
