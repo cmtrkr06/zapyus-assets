@@ -25,3 +25,8 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/428f19cfb4f7233377b4.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/89d3ddfdc4b6bce998e9.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/d8d73b78fd1d9940a70d.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Volkswagen_Beetle_Cockpit_(210135663).jpeg | CC BY-SA 3.0 | Fotoğraf: Christoph Wurst / Wikimedia Commons , CC BY-SA 3.0 |
+| images/93f5a49590e69c4ac048.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_von_oben_20250605_HOF4734-HDR_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
+| images/b9a36bbc8f768000fcba.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/a0ff7a8004485bb2ef5e.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/f175afece49681799bc7.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/8de27a0472d36bfc8759.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4747_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
