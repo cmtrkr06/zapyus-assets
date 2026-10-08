@@ -20,3 +20,7 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/48d154c65381b2cf95a3.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Consoles.jpg | CC BY 2.0 | Fotoğraf: Michel Ngilen / Wikimedia Commons , CC BY 2.0 |
 | images/8e91f40460ae79ca03d8.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Original_Game_Boy.jpg | CC BY 4.0 | Fotoğraf: Sammlung der Medien und Wissenschaft / Wikimedia Commons , CC BY 4.0 |
 | images/185b1da11a65f9233f9b.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Game_Boy_and_Tetris.jpg | CC BY 4.0 | Fotoğraf: Sammlung der Medien und Wissenschaft / Wikimedia Commons , CC BY 4.0 |
+| images/ede4186b038473c4d41f.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/a3acdfe977bb8293e336.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/428f19cfb4f7233377b4.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/89d3ddfdc4b6bce998e9.png | adım kartı | Zapyus | Zapyus | Zapyus |
