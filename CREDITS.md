@@ -30,3 +30,7 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/a0ff7a8004485bb2ef5e.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/f175afece49681799bc7.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/8de27a0472d36bfc8759.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4747_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
+| images/f2945ed0bfc42e1304b0.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Auto_Union_Silver_Arrow_(3)_(8195469781).jpg | CC BY 2.0 | Fotoğraf: Thomas's Pics / Wikimedia Commons , CC BY 2.0 |
+| images/d9c02589c9794e3d62ef.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Auto-Union_Typ_C_IAA_2025_DSC_2008.jpg | CC BY-SA 4.0 | Fotoğraf: Alexander Migl / Wikimedia Commons , CC BY-SA 4.0 |
+| images/f636ee1af7d9a4f9b689.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Auto_Union_Silver_Arrow_(2)_(8196564988).jpg | CC BY 2.0 | Fotoğraf: Thomas's Pics / Wikimedia Commons , CC BY 2.0 |
+| images/7e2df98d0f1aa103ad42.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Das_Audi_Forum_Ingolstadt.JPG | CC BY-SA 4.0 | Fotoğraf: SamaKM / Wikimedia Commons , CC BY-SA 4.0 |
