@@ -38,3 +38,9 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/40b6055f2e4e7a2180f0.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/6ff789bae8743c37f3ab.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/050e71cedf1b702047de.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/dc15534bf918f6f2bb25.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_%E2%80%93_Tischmodus_20250606.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
+| images/922af22eebfa57524dde.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/d6add0845d2f043d4977.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/f07ebae3652b7e27b06c.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/fe6b1d1920116fdcfbfc.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/ed5ea7bd3136ebec9818.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4739_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
