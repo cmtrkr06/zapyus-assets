@@ -34,3 +34,7 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/d9c02589c9794e3d62ef.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Auto-Union_Typ_C_IAA_2025_DSC_2008.jpg | CC BY-SA 4.0 | Fotoğraf: Alexander Migl / Wikimedia Commons , CC BY-SA 4.0 |
 | images/f636ee1af7d9a4f9b689.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Auto_Union_Silver_Arrow_(2)_(8196564988).jpg | CC BY 2.0 | Fotoğraf: Thomas's Pics / Wikimedia Commons , CC BY 2.0 |
 | images/7e2df98d0f1aa103ad42.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Das_Audi_Forum_Ingolstadt.JPG | CC BY-SA 4.0 | Fotoğraf: SamaKM / Wikimedia Commons , CC BY-SA 4.0 |
+| images/306701850b355ec30023.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/40b6055f2e4e7a2180f0.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/6ff789bae8743c37f3ab.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/050e71cedf1b702047de.png | adım kartı | Zapyus | Zapyus | Zapyus |
