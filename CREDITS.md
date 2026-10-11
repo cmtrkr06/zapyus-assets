@@ -44,3 +44,6 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/f07ebae3652b7e27b06c.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/fe6b1d1920116fdcfbfc.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/ed5ea7bd3136ebec9818.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2_20250605_HOF4739_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
+| images/1964d8c27878cfc86a52.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/5f7726bd851d43b25747.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/e6377d5b0ccf56272cc9.png | adım kartı | Zapyus | Zapyus | Zapyus |
