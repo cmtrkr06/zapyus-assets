@@ -51,3 +51,7 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/e79dc929eb10a8d0b70b.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/2c4a4f14665d03eed1f7.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/4aa0c85215dc03cb1ee1.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/77119da8ac8f4207b357.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/1e64af0cb979d41bd9d7.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/c0fd159d005335848459.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/7d99253599faee40cba9.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:2012_Buick_Enclave_Premium_dashboard.jpg | CC BY 4.0 | Fotoğraf: Baron Maddock / Wikimedia Commons , CC BY 4.0 |
