@@ -57,3 +57,6 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/7d99253599faee40cba9.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:2012_Buick_Enclave_Premium_dashboard.jpg | CC BY 4.0 | Fotoğraf: Baron Maddock / Wikimedia Commons , CC BY 4.0 |
 | images/dc2387a9525800e3527a.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:Cupra_Raval_(concept)_IAA_2023_1X7A0431.jpg | CC BY-SA 4.0 | Fotoğraf: Alexander-93 / Wikimedia Commons , CC BY-SA 4.0 |
 | images/41ab896dced2610f1748.jpg | fotoğraf | https://commons.wikimedia.org/wiki/File:VOLKSWAGEN_GROUP_MEB_PLATFORM_DEMO_(2).jpg | CC BY-SA 4.0 | Fotoğraf: Dinkun Chen / Wikimedia Commons , CC BY-SA 4.0 |
+| images/8915d55634e1b7e8739d.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/2b576a88614175a980ca.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/77f8c483d5d9d7b7a605.png | adım kartı | Zapyus | Zapyus | Zapyus |
