@@ -60,3 +60,6 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/8915d55634e1b7e8739d.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/2b576a88614175a980ca.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/77f8c483d5d9d7b7a605.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/50e037e219f00c3cf6a7.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/8b8cd52ec569801c467a.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/f42fc12fcea4eefbbb2f.png | adım kartı | Zapyus | Zapyus | Zapyus |
