@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gizlilik Politikası</title>
+<style>
+  :root { --bg:#ffffff; --fg:#1a1a1a; --muted:#555; --line:#e3e3e3; --link:#0b57d0; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#141414; --fg:#ececec; --muted:#a8a8a8; --line:#2c2c2c; --link:#8ab4f8; } }
+  body { margin:0; background:var(--bg); color:var(--fg); font:16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:680px; margin:0 auto; padding:40px 16px 64px; }
+  h1 { font-size:1.6rem; margin:0 0 4px; }
+  .sub { color:var(--muted); margin:0 0 28px; }
+  h2 { font-size:1.1rem; margin:28px 0 8px; }
+  a { color:var(--link); }
+  footer { margin-top:40px; padding-top:16px; border-top:1px solid var(--line); color:var(--muted); font-size:.9rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Gizlilik Politikası</h1>
+  <p class="sub">Zapyus Editör · Son güncelleme: 19 Ekim 2026</p>
+
+  <p>Bu politika, <a href="index.html">Zapyus Editör</a> aracının Google hesabı verilerini nasıl kullandığını açıklar.
+  Araç kişiseldir ve yalnızca blog sahibi tarafından, kendi Blogger blogları için kullanılır.</p>
+
+  <h2>Erişilen veriler</h2>
+  <p>Araç, blog sahibinin verdiği izinle yalnızca Blogger hesabına erişir (Blogger API, <code>blogger</code> izni).
+  Bu erişimle blog listesi ve yazılar okunur, yeni yazılar taslak olarak eklenir ve yayındaki yazıların
+  yapılandırılmış veri bloğu güncellenir. E-posta, kişiler, dosyalar veya başka hiçbir Google verisine erişilmez.</p>
+
+  <h2>Verilerin saklanması</h2>
+  <p>Google'ın verdiği giriş anahtarı (OAuth token) şifrelenmiş olarak, aracın çalıştığı GitHub depolarında ve
+  GitHub'ın gizli değişkenlerinde saklanır. Yazı taslakları ve çalışma kayıtları aynı depoda tutulur.</p>
+
+  <h2>Paylaşım</h2>
+  <p>Google hesabından alınan veriler hiçbir üçüncü tarafla paylaşılmaz, satılmaz, reklam için kullanılmaz ve
+  yapay zekâ modeli eğitiminde kullanılmaz. Aracın Google API'lerinden aldığı bilgilerin kullanımı,
+  <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Hizmetleri Kullanıcı Verileri Politikası</a>na,
+  Sınırlı Kullanım (Limited Use) koşulları dahil, uygundur.</p>
+
+  <h2>İzni geri alma</h2>
+  <p>Erişim izni istenildiği zaman <a href="https://myaccount.google.com/permissions">Google hesabı izinleri</a>
+  sayfasından kaldırılabilir. İzin kaldırılınca araç Blogger hesabına erişemez.</p>
+
+  <h2>İletişim</h2>
+  <p>Sorular için: <a href="mailto:aldotheapaci@gmail.com">aldotheapaci@gmail.com</a></p>
+
+  <footer>English summary: Zapyus Editör is a personal tool. It only accesses the owner's Blogger account (Blogger API)
+  to add draft posts and update structured data on published posts. Tokens are stored encrypted in the tool's GitHub
+  repository. Data is never shared, sold, used for ads or for AI model training, and its use complies with the Google API
+  Services User Data Policy, including the Limited Use requirements. Access can be revoked at
+  myaccount.google.com/permissions.</footer>
+</main>
+</body>
+</html>
