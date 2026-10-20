@@ -69,3 +69,7 @@ Fotoğraflar Wikimedia Commons'tan, belirtilen lisansla alınmıştır; adım ka
 | images/7f7958a4fc2abd50c6db.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/a32c936710aad6c0b61d.png | adım kartı | Zapyus | Zapyus | Zapyus |
 | images/75881c1863d5a5f4f8c3.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/4e66a84dfb0f9fadf0c4.png | fotoğraf | https://commons.wikimedia.org/wiki/File:Nintendo_Switch_2-Konsole_von_hinten_20250605_HOF4680-HDR_RAW-Export.png | CC BY 4.0 | Fotoğraf: PantheraLeo1359531 / Wikimedia Commons , CC BY 4.0 |
+| images/07ccbd78eb4eec079e28.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/b609d6b958f251e2c625.png | adım kartı | Zapyus | Zapyus | Zapyus |
+| images/199b809f85c543968b91.png | adım kartı | Zapyus | Zapyus | Zapyus |
